@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028245227482",
+    "project_id": "turkeyplatecodeapp",
+    "storage_bucket": "turkeyplatecodeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028245227482:android:2554ca0b4d5094f44662e3",
+        "android_client_info": {
+          "package_name": "com.example.turkeyplatecodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028245227482-jgc4k53kc4lt8uc0859r09eaefh8nt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6AmnfEm0L6J0rldU0o3w_DkpzY3MkAd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028245227482-jgc4k53kc4lt8uc0859r09eaefh8nt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
